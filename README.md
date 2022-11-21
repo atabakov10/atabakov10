@@ -5,7 +5,7 @@
 
 ![atabakov10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabakov10&theme=panda)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atabakov10&theme=panda" alt="atabakov10" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=atabakov10&theme=radical)](https://git.io/streak-stats)
 
 - 📫 How to reach me **angelt4@abv.bg**
 
