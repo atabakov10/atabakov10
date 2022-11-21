@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate back-end developer from Bulgaria</h3>
 
-![atabakov10's GitHub stats](https://github-readme-stats.vercel.app/api?username=atabakov10&show_icons=true&theme=panda)
+![atabakov10's GitHub stats](https://github-readme-stats.vercel.app/api?username=atabakov10&show_icons=true&theme=radical)
 
-![atabakov10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabakov10&theme=panda)
+![atabakov10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atabakov10&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=atabakov10&theme=radical)](https://git.io/streak-stats)
 
