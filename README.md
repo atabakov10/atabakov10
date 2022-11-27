@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">A passionate back-end developer from Bulgaria</h3>
 
 ![atabakov10's GitHub stats](https://github-readme-stats.vercel.app/api?username=atabakov10&show_icons=true&theme=radical)
 
