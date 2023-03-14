@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Muscle Gain](https://github.com/atabakov10/Muscle-Gain)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
